@@ -1,2 +1,2 @@
 # config
-i3.polay.ranger
+i3.polay.ranger.alacritty
